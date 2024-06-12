@@ -1,6 +1,3 @@
-# Enming Michael Liang
-# 2024.05.16 - 05.18
-
 from library_management import Library, Member
 
 
